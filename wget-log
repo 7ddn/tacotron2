@@ -1,0 +1,20 @@
+--2024-03-14 00:19:24--  https://drive.google.com/u/3/uc?id=1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF
+Resolving drive.google.com (drive.google.com)... 142.251.42.206, 2404:6800:4004:823::200e
+Connecting to drive.google.com (drive.google.com)|142.251.42.206|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://drive.google.com/uc?id=1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF [following]
+--2024-03-14 00:19:24--  https://drive.google.com/uc?id=1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF
+Reusing existing connection to drive.google.com:443.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://drive.usercontent.google.com/download?id=1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF [following]
+--2024-03-14 00:19:24--  https://drive.usercontent.google.com/download?id=1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF
+Resolving drive.usercontent.google.com (drive.usercontent.google.com)... 172.217.161.33, 2404:6800:4004:80a::2001
+Connecting to drive.usercontent.google.com (drive.usercontent.google.com)|172.217.161.33|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2396 (2.3K) [text/html]
+Saving to: ‘uc?id=1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF’
+
+uc?id=1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF                0%[                                                                                                                    ]       0  --.-KB/s               uc?id=1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF              100%[===================================================================================================================>]   2.34K  --.-KB/s    in 0s      
+
+2024-03-14 00:19:25 (29.7 MB/s) - ‘uc?id=1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF’ saved [2396/2396]
+
